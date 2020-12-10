@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practice App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_button" />
+    <string name="start">Start</string>
+    <string name="gamefragment">GameFragment</string>
+    <string name="qs_txxt" />
+    <string name="question">Do you love android development?</string>
+    <string name="yes_radio_button" />
+    <string name="yes_radio_btn">Yes</string>
+    <string name="no_radio_btn">No</string>
+    <string name="gamewonfragment_title">GameWonFragment</string>
+    <string name="welcome_to_android_development_world_txt">Welcome to android development world!</string>
+    <string name="mind_change_button">Mind Change</string>
+    <string name="glade_to_know_txt">Glade to know!</string>
+    <string name="next_button">Next</string>
+    <string name="share_my_thought">My name is %s and I am a android developer</string>
+    <string name="about" />
+    <string name="rules">Rules</string>
+    <string name="about_title">About</string>
+</resources>
